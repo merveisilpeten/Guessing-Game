@@ -1,13 +1,8 @@
 # Guessing-Game
 
-Prerequisites:
-java 8 or higher
+This project requires Java Version 8 or higher
 
-Installation
-git clone git@
-cd 
-java
-
-Self Compile 
-
-
+git clone git@github.com:merveisilpeten/Guessing-Game.git
+cd Guessing-Game/AplicantAssessmentTest/src/
+javac Solution.java
+java Solution
