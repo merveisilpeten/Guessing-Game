@@ -19,8 +19,7 @@ java Solution
 
     (The MIT License)
 
-    Copyright (C) 2013-2017 by Ruben Vermeersch <ruben@rocketeer.be>
-    Copyright (C) 2012 by Michael Holly
+    Copyright (C) 2019 by Merve Işıl Peten <misilpeten@gmail.com>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
