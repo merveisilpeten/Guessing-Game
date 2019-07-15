@@ -2,7 +2,7 @@ public class PosNegCount {
     public int positiveCount = 0;
     public int negativeCount = 0;
 
-    public PosNegCount(int b, int c) {s
+    public PosNegCount(int b, int c) {
         positiveCount = b;
         negativeCount = c;
     }
